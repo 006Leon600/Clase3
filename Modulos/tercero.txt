@@ -1,0 +1,4 @@
+[object Object] 
+ 1117147136 
+ 17179869184 
+ Darwin Kernel Version 22.3.0: Mon Jan 30 20:42:11 PST 2023; root:xnu-8792.81.3~2/RELEASE_X86_64
